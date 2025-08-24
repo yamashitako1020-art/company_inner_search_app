@@ -42,5 +42,5 @@ pydantic>=1.10.0,<2.0.0
 langchain==0.0.350
 langsmith==0.0.87
 numpy==1.26.4
-
+python-docx
 
